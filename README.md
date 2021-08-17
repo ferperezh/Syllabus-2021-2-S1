@@ -8,14 +8,15 @@ El curso constará de 5 evaluaciones, tres interrogaciones y dos tareas, donde c
 
 | Tipo  | Tópico                             | Fecha        | Clase  | Grabación | Otros |
 | :-:   | -                                  | :-:          | :-:    | :-:       | :-:   |
+| Clase   | Introducción al ramo             | 15/03        |  ... | ... | ...   |
 
 ## Calendario evaluaciones 📄
 
 | Evaluación | Publicación | Entrega | Otros |
 | :-:        | :-:         | :-:     | :-:   |
-| I1 | ... | ... | ... |
-| I2 | ... | ... | ...|
-| I3 | ... | ... | ...|
+| I1 | 28/09 | 28/09 | ... |
+| I2 | 16/11 | 16/11 | ...|
+| I3 | 10/12 | 10/12 | ...|
 | T1 | ... | ... | ...|
 | T2 | ... | ... | ...|
 
