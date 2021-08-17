@@ -2,7 +2,7 @@
 
 Syllabus del curso IIC2343 Arquitectura de Computadores para el semestre 2021-2. 
 
-El curso constará de 4 evaluaciones, dos interrogaciones y dos tareas, donde cada una tiene una ponderación de 25%, en las fechas indicadas.
+El curso constará de 5 evaluaciones, tres interrogaciones y dos tareas, donde cada una tiene una ponderación de 20%, en las fechas indicadas.
 
 ## Clases y ayudantías 🏫
 
@@ -13,16 +13,17 @@ El curso constará de 4 evaluaciones, dos interrogaciones y dos tareas, donde ca
 
 | Evaluación | Publicación | Entrega | Otros |
 | :-:        | :-:         | :-:     | :-:   |
-| T1 | ... | ... | ... |
-| I1 | ... | ... | ...|
-| T2 | ... | ... | ...|
+| I1 | ... | ... | ... |
 | I2 | ... | ... | ...|
+| I3 | ... | ... | ...|
+| T1 | ... | ... | ...|
+| T2 | ... | ... | ...|
 
 ## Canales de comunicación 📩
 
 ### Horario de atención: 8:00 a 20:00 de Lunes a Viernes, (casi) sin excepciones :trollface:
 
-Para consultas de materia, ramo, tareas, etc. usaremos las [issues](https://github.com/IIC2343/syllabus-2021-1/issues) del syllabus, por favor recuerden seguir el Formato™ y **buscar** en las issues antes de hacer una pregunta. Recuerden que si bien vamos a estar respondiendo las issues, ustedes también pueden ayudar a responder dudas.
+Para consultas de materia, ramo, tareas, etc. usaremos las [issues](https://github.com/IIC2343/Syllabus-2021-2-S1/issues) del syllabus, por favor recuerden seguir el Formato™ y **buscar** en las issues antes de hacer una pregunta. Recuerden que si bien vamos a estar respondiendo las issues, ustedes también pueden ayudar a responder dudas.
 
 Temas administrativos no relacionados con materia, al mail del curso [iic2343@ing.puc.cl](mailto:iic2343@ing.puc.cl) y para cosas privadas o sensibles, como dificultades de cualquier índole, imprevistos, enfermedad, etc, está disponible el correo del profesor, [yadran@ing.puc.cl](mailto:yadran@ing.puc.cl).
 
