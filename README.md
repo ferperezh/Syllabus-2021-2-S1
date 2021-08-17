@@ -45,7 +45,6 @@ En la carpeta [apuntes](../../tree/master/Apuntes) encontrarán apuntes de los p
 
 - Cualquier cambio en el calendario y evaluaciones será oportunamente avisado vía mail.
 
-- El lenguaje a usar en este curso es assembly RISC-V, no x86 ni el assembly asociado al computador del ramo, que se ve en las diapositivas del curso y en algunos de los apuntes.
 
 ## Otros Semestres ♻
 
