@@ -8,7 +8,7 @@ El curso constará de 5 evaluaciones, tres interrogaciones y dos tareas, donde c
 
 | Tipo  | Tópico                             | Fecha        | Clase  | Grabación | Otros |
 | :-:   | -                                  | :-:          | :-:    | :-:       | :-:   |
-| Clase   | Introducción al ramo             | 17/08        |  ... | ... | ...   |
+| Clase   | Introducción al ramo             | 17/08        |  [PDF](../../tree/master/Clases/00-presentation.pptx)  | ... | ...   |
 
 ## Calendario evaluaciones 📄
 
