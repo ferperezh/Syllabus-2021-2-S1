@@ -52,3 +52,5 @@ En la carpeta [apuntes](../../tree/master/Apuntes) encontrarán apuntes de los p
 ## Otros Semestres ♻
 
 Pueden encontrar el material de otros semestres en [este link](https://github.com/IIC2343/Syllabus-anteriores).
+
+Además, las grabaciones del semestre anterior se pueden ver en el siguiente [link](https://drive.google.com/drive/folders/1s0-b7a5BCl9lm_WV_uNlmghLZ-rVhNjJ?usp=sharing).
